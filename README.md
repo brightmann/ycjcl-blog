@@ -1,6 +1,6 @@
 # Charles' Blog
 
-Personal technical blog — AI Infrastructure, Agents, LLM Inference, Sandbox, MCP.
+Personal technical blog — about AI Infrastructure, Agents, LLM Inference, Sandbox, MCP.
 
 **Live:** [rustc.cloud](https://rustc.cloud)
 
